@@ -3,7 +3,11 @@ Basic example about how to create a WASM file from C++ and consuming on browser 
 By [Rafael Xolio](https://www.linkedin.com/in/rafaelxolio/)
 
 ## Prerequisites
-
+- HTML
+- JS
+- Visual Studio Code
+- Live Server extension
+  
 ### Install Python
   - Get MSI from: [Download Python](https://www.python.org/downloads/)
   - Configure Environment Variables for python
@@ -14,3 +18,11 @@ By [Rafael Xolio](https://www.linkedin.com/in/rafaelxolio/)
 
 ### Install EMCSDK
 
+
+## Run
+
+- Open a new terminal
+- Run command 
+- Open folder with Visual Studio Code
+- Right click on 'hello_world.html'
+- Choose 'Open with Live Server'
